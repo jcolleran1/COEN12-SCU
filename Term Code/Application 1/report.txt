@@ -1,0 +1,10 @@
+Joshua Colleran
+Application 1 Big O run times worst case scenario:
+destroydataSet(): O(1)
+creatDataSet(): O(1)
+searchAge(): O(n)
+insertion(): O(1)
+deletion(): O(n)
+maxAgeGap(): O(1)
+
+The reason that i chose to use an array of structs for application 1 is because the max number of students is already given and searching with an array is only O(n) so I figured this would be the most practicle and simple way of completing appliction 1. I could have lowered the Big O worst case scenary by using Hash table with chainging or a BST.
